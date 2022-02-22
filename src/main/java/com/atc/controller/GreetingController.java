@@ -1,4 +1,4 @@
-package atc.controller;
+package com.atc.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
